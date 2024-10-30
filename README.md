@@ -1,5 +1,14 @@
-# 💫 About Me:
-🛠 I’m currently working on: Building the ultimate Reddit bot, exploring AI technologies, and developing full-stack projects.<br>🤝 I’m looking to collaborate on: Cutting-edge AI projects, complex automation scripts, and anything that pushes technology forward.<br>🧠 I’m looking for help with: Exploring advanced AGI concepts and quantum computing applications.<br>🌱 I’m currently learning: Quantum machine learning and reinforcement learning for AI agents.<br>💬 Ask me about: AGI, GPT-powered projects, or anything AI-driven.<br>⚡ Fun fact: I can talk about AI for hours and often dive into tech rabbit holes that last all night.
+🛠 I’m currently working on: Building a supercharged Reddit bot that does everything you could think of. Also diving deep into AI tech and putting together full-stack projects that bring it all together.
+
+🤝 I’m looking to collaborate on: Anything pushing tech forward—AI experiments, automation projects, or ambitious ideas that need a full-stack approach.
+
+🧠 I’m looking for help with: Figuring out the mysteries of AGI and making sense of quantum computing in real-world applications.
+
+🌱 I’m currently learning: Quantum machine learning, reinforcement learning, and any cool new AI frameworks I can get my hands on.
+
+💬 Ask me about: AGI theories, GPT-powered tools, or really anything AI—I've probably read up on it or messed around with it.
+
+⚡ Fun fact: I can get lost in tech rabbit holes for hours. It’s a common occurrence for me to look up and realize I’ve been coding all night.
 
 
 # 💻 Tech Stack:
