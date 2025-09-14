@@ -1,14 +1,14 @@
-🛠 I’m currently working on: Building a supercharged Reddit bot that does everything you could think of. Also diving deep into AI tech and putting together full-stack projects that bring it all together.
+I'm an IT & AI Solutions Architect with a solid background in IT management and digital transformation. I specialize in architecting robust technology roadmaps that bridge enterprise systems with cutting-edge AI and automation solutions. My journey from leading IT teams to building AI-driven applications gives me a unique perspective on leveraging technology to solve complex business challenges.
 
-🤝 I’m looking to collaborate on: Anything pushing tech forward—AI experiments, automation projects, or ambitious ideas that need a full-stack approach.
+My expertise lies at the intersection of strategic IT leadership and hands-on software development, particularly in:
 
-🧠 I’m looking for help with: Figuring out the mysteries of AGI and making sense of quantum computing in real-world applications.
+Artificial Intelligence: Machine Learning, NLP, Computer Vision, and MLOps.
 
-🌱 I’m currently learning: Quantum machine learning, reinforcement learning, and any cool new AI frameworks I can get my hands on.
+Enterprise Systems: SAP Basis, IT Infrastructure, and DevOps.
 
-💬 Ask me about: AGI theories, GPT-powered tools, or really anything AI—I've probably read up on it or messed around with it.
+Cloud Solutions: AWS, Azure, and Serverless Architectures.
 
-⚡ Fun fact: I can get lost in tech rabbit holes for hours. It’s a common occurrence for me to look up and realize I’ve been coding all night.
+You can find my latest work and ongoing projects pinned below. Let's connect and build something impactful together!
 
 
 # 💻 Tech Stack:
